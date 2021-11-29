@@ -1,3 +1,8 @@
+#This dockerfile is containerizing the client function
+#We can build this with "sudo docker build -t <image_name>:<tag_name> <Dockerfile_directory>"
+#Second pull request
+
+
 FROM icnslab/project_gom:raspbian_opencv
 
 MAINTAINER Seungjun "hongsj1022@khu.ac.kr"
